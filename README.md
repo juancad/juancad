@@ -1,4 +1,4 @@
-### Hi there, I'm Juan Carlos 👋
+### Hi there 👋
 
 <!--
 **juancad/juancad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
